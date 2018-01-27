@@ -1,2 +1,2 @@
 # HackathonProjectEuler
-It is the project for giving all the solutions to the project euler at Hackathon.
+It is the project to give solutions for all the Project Euler problems at Hackathon.
